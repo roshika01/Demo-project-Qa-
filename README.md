@@ -1,1 +1,1 @@
-# Demo-project-Qa-
+# Demo-project-Qa-OrangeHRM
